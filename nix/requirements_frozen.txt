@@ -30,7 +30,7 @@ ipaddr==2.1.11
 IPy==0.75
 isort==4.2.2
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.10.1
 kombu==3.0.37
 Mako==1.0.1
 MarkupSafe==0.18
