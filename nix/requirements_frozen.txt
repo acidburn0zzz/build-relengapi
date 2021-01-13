@@ -17,7 +17,7 @@ coverage==4.0.3
 croniter==0.3.5
 docutils==0.11
 elasticache-auto-discovery==0.0.5.1
-Flask==0.10.1
+Flask==1.0
 Flask-BrowserID==0.0.4
 Flask-Login==0.3.0
 flower==0.8.3
