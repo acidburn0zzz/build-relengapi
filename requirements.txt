@@ -3,7 +3,7 @@ Flask-BrowserID==0.0.4
 Flask-Login==0.3.2
 Flask==0.10.1
 IPy==0.83
-Jinja2==2.8
+Jinja2==2.11.3
 Mako==1.0.4
 MarkupSafe==0.23
 Pygments==2.1.3
