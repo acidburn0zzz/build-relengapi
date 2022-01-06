@@ -20,7 +20,7 @@ billiard==3.3.0.23
 blinker==1.4
 boto==2.39.0
 bzrest==1.1
-celery==3.1.23
+celery==5.2.2
 croniter==0.3.12
 docutils==0.12
 elasticache-auto-discovery==0.0.5.1
