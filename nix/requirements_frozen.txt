@@ -11,7 +11,7 @@ boto==2.38.0
 bzrest==1.1
 celery==3.1.25
 certifi==2015.9.6.2
-codecov==1.6.3
+codecov==2.0.16
 ConcurrentLogHandler==0.9.1
 coverage==4.0.3
 croniter==0.3.5
