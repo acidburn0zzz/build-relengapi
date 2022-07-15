@@ -1,4 +1,4 @@
-codecov==1.6.3
+codecov==2.0.16
 coverage==4.0.3
 funcparserlib==0.3.6
 funcsigs==0.4
