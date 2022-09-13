@@ -20,7 +20,7 @@ elasticache-auto-discovery==0.0.5.1
 Flask==0.10.1
 Flask-BrowserID==0.0.4
 Flask-Login==0.3.0
-flower==0.8.3
+flower==1.2.0
 funcparserlib==0.3.6
 funcsigs==0.4
 furl==0.4.5
