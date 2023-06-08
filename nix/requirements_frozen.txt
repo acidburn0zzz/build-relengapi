@@ -56,7 +56,7 @@ python-ldap==2.4.15
 python-memcached==1.53
 pytz==2015.6
 redo==1.5
-requests==2.10.0
+requests==2.31.0
 requests-futures==0.9.5
 simplegeneric==0.8
 simplejson==3.3.0
