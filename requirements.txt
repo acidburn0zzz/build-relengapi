@@ -38,7 +38,7 @@ python-memcached==1.57
 pytz==2016.2
 redo==1.5
 requests-futures==0.9.7
-requests==2.9.1
+requests==2.31.0
 simplegeneric==0.8.1
 simplejson==3.8.2
 six==1.10.0
