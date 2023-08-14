@@ -54,7 +54,7 @@ sphinx-rtd-theme==0.1.7
 SQLAlchemy==1.0.3
 structlog==15.2.0
 taskcluster==0.3.4
-tornado==4.2.1
+tornado==6.3.3
 WebOb==1.2.3
 Werkzeug==0.9.3
 wrapt==1.8.0
